@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 
-You can also find my papers on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my papers on <a href="https://scholar.google.com/citations?user=Gtw3NoAAAAAJ&hl=en">Google Scholar</a>.
+
 
 {% include base_path %}
 
