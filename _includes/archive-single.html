@@ -27,7 +27,7 @@
     {% endif %}
 
     {% if post.type == 'update' %}
-    <p class="page__meta" style="margin-top: 1em;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %Y' }}</p>
+    <p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %Y' }}</p>
     <p style="margin-top: 0;">{{ title }}</p>
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% else %}

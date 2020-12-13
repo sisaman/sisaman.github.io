@@ -41,35 +41,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// @import "minimal-mistakes";
-
-// html {
-//   font-size: 16px; // change to whatever
-
-//   @include breakpoint($medium) {
-//     font-size: 16px; // change to whatever
-//   }
-
-//   @include breakpoint($large) {
-//     font-size: 16px; // change to whatever
-
-//   }
-
-//   @include breakpoint($x-large) {
-//     font-size: 16px; // change to whatever
-//   }
-// }
-
 .page__content {
-  a {
-    text-decoration: none;
-  }
-
-  text-align: justify;
-  font-size: 0.85em;
-}
-
-.archive {
   a {
     text-decoration: none;
   }
@@ -84,4 +56,8 @@
 
 .archive__item-excerpt {
   font-size: .95em;
+}
+
+h1 {
+  font-size: 1.2em;
 }
