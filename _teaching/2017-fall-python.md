@@ -1,9 +1,10 @@
 ---
 title: "Fundamentals of Programming (Python)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 #permalink: /teaching/2017-fall-python
-venue: "Sharif University of Technology, Department of Computer Engineering"
+venue: "Department of Computer Engineering, Sharif University of Technology"
+semester: "Fall 2017"
 date: 2017-09-01
 location: "Tehran, Iran"
 ---
