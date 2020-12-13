@@ -1,5 +1,4 @@
 ---
-# layout: default
 title: "Contact Information"
 permalink: /contact/
 author_profile: true
