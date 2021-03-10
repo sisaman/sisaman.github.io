@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-You can download my full resume from [here]({{base_path}}/files/sina-sajadmanesh-cv.pdf).
+You can download my full resume from [here](https://github.com/sisaman/resume/blob/master/sina-sajadmanesh-cv.pdf).
