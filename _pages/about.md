@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the School of Engineering at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/home/) and a research assistant in the Social Computing group at [Idiap Research Institute](http://idiap.ch) under the supervision of [Prof. Daniel Gatica-Perez](https://www.idiap.ch/~gatica/). I am also a member of [Digital Humanities Institute](https://www.epfl.ch/schools/cdh/research-2/dhi/) at EPFL, and [dhCenter](https://www.dhcenter-unil-epfl.ch/), the UNIL-EPFL joint center for digital humanities.  
+I am a third-year PhD student in the School of Engineering at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/home/) and a research assistant in the Social Computing group at [Idiap Research Institute](http://idiap.ch) under the supervision of [Prof. Daniel Gatica-Perez](https://www.idiap.ch/~gatica/). I am also a member of [Digital Humanities Institute](https://www.epfl.ch/schools/cdh/research-2/dhi/) at EPFL, and [dhCenter](https://www.dhcenter-unil-epfl.ch/), the UNIL-EPFL joint center for digital humanities.  
 
 My academic research interest lies at the intersection of privacy, machine learning, and social network analysis. Currently, I work on designing privacy-preserving representation learning algorithms for large-scale graphs such as social and information networks.  I contribute to the [AI4media](https://ai4media.eu/) project, a European Union’s Horizon 2020 research and innovation program focusing on the next generation of ethical and trustworthy AI research to serve media and society.  
 
