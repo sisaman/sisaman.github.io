@@ -51,20 +51,23 @@
       <p class="archive__item-excerpt" itemprop="description" style="margin: 0;">
         {{ post.authors | markdownify | remove: '<p>' | remove: '</p>'}}<br/>
         <strong>{{ post.venue | markdownify | remove: '<p>' | remove: '</p>'}}</strong>, {{ post.date | date: '%B %Y' }}<br/>
+        {% if post.excerpt %}
+        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>'}}
+        {% endif %}
         {% if post.pdf %}
-        <a href="{{ post.pdf }}" style="color: salmon;" target="_blank"><strong>Paper</strong></a>
+        <a href="{{ post.pdf }}" style="color: salmon;" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Paper</a>
         {% endif %}
         {% if post.code %}
-        <a href="{{ post.code }}" style="color: seagreen;" target="_blank"><strong>Code</strong></a>
-        {% endif %}
-        {% if post.data %}
-        <a href="{{ post.data }}" style="color: darkviolet;" target="_blank"><strong>Data</strong></a>
+        <a href="{{ post.code }}" style="color: seagreen;" target="_blank"><i class="fab fa-fw fa-github-square" aria-hidden="true"></i>Code</a>
         {% endif %}
         {% if post.slides %}
-        <a href="{{ post.slides }}" style="color: steelblue;" target="_blank"><strong>Slides</strong></a>
+        <a href="{{ post.slides }}" style="color: steelblue;" target="_blank"><i class="fas fa-fw fa-file-powerpoint" aria-hidden="true"></i>Slides</a>
         {% endif %}
-        <br/>
-        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>'}}
+        {% if post.media %}
+          {% for media in post.media %}
+          <a href="{{media[1]}}" style="color: darkviolet;" target="_blank"><i class="fab fa-fw fa-medium" aria-hidden="true"></i>{{media[0]}}</a>
+          {% endfor %}
+        {% endif %}
       </p>
     {% endif %}
 
