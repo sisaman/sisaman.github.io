@@ -1,5 +1,5 @@
 ---
-title: "Invited Talks"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
@@ -10,6 +10,13 @@ author_profile: true
 
 {% endif %}
 
+
+{% capture written_title %}'None'{% endcapture %}
 {% for post in site.talks reversed %}
+  {% capture title %}{{ post.title }}{% endcapture %}
+  {% if title != written_title %}
+    <h3 style="color: #494e52; margin-bottom: 1em;"><a>{{ title }}</a></h3>
+    {% capture written_title %}{{ title }}{% endcapture %}
+  {% endif %} 
   {% include archive-single-talk.html %}
 {% endfor %}
