@@ -10,13 +10,16 @@ author_profile: true
 
 {% endif %}
 
-
+<table style="font-size: 1em; border: none;">
 {% capture written_title %}'None'{% endcapture %}
 {% for post in site.talks reversed %}
   {% capture title %}{{ post.title }}{% endcapture %}
   {% if title != written_title %}
-    <h3 style="color: #494e52; margin-bottom: 1em;"><a>{{ title }}</a></h3>
+    <tr><th colspan="2" style="border: none; padding: 0;">
+      <h3 style="color: #494e52;"><a>{{ title }}</a></h3>
+    </th></tr>
     {% capture written_title %}{{ title }}{% endcapture %}
   {% endif %} 
   {% include archive-single-talk.html %}
 {% endfor %}
+</table>
