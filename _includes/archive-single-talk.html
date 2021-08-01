@@ -17,7 +17,10 @@
     <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%b %d, %Y' }} 
     <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ post.venue }},  {{post.location}}
     {% if post.slides %}
-    <a href="{{base_path}}/files/slides/{{ post.slides }}" style="color: steelblue;" target="_blank"><i class="fas fa-fw fa-file-powerpoint" aria-hidden="true"></i>Slides</a>
+    <a href="{{base_path}}/files/slides/{{ post.slides }}" style="color: steelblue;" target="_blank"><i class="fas fa-fw fa-file-powerpoint" aria-hidden="true"></i>slides</a>
+    {% endif %}
+    {% if post.video %}
+    <a href="{{ post.video }}" style="color: red;" target="_blank"><i class="fab fa-youtube" aria-hidden="true" style="margin-right: 2px;"></i>video</a>
     {% endif %}
   </div>
 </div>
