@@ -61,7 +61,7 @@
         <a href="{{ post.code }}" style="color: seagreen;" target="_blank"><i class="fab fa-fw fa-github-square" aria-hidden="true"></i>Code</a>
         {% endif %}
         {% if post.slides %}
-        <a href="{{ post.slides }}" style="color: steelblue;" target="_blank"><i class="fas fa-fw fa-file-powerpoint" aria-hidden="true"></i>Slides</a>
+        <a href="{{base_path}}/files/slides/{{ post.slides }}" style="color: steelblue;" target="_blank"><i class="fas fa-fw fa-file-powerpoint" aria-hidden="true"></i>Slides</a>
         {% endif %}
         {% if post.media %}
           {% for media in post.media %}
