@@ -63,6 +63,9 @@
         {% if post.slides %}
         <a href="{{base_path}}/files/slides/{{ post.slides }}" style="color: steelblue;" target="_blank"><i class="fas fa-fw fa-file-powerpoint" aria-hidden="true"></i>Slides</a>
         {% endif %}
+        {% if post.video %}
+        <a href="{{ post.video }}" style="color: red;" target="_blank"><nobr><i class="fab fa-youtube" aria-hidden="true" style="margin-right: 2px;"></i>Video</nobr></a>
+        {% endif %}
         {% if post.media %}
           {% for media in post.media %}
           <a href="{{media[1]}}" style="color: darkviolet;" target="_blank"><i class="fab fa-fw fa-medium" aria-hidden="true"></i>{{media[0]}}</a>
