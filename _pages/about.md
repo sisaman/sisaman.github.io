@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the School of Engineering at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/home/) and a research assistant in the Social Computing group at [Idiap Research Institute](http://idiap.ch) under the supervision of [Prof. Daniel Gatica-Perez](https://www.idiap.ch/~gatica/). Currently, I am a visiting PhD student of the [Safe and Ethical AI programme](https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai/safe-and-ethical) at [The Alan Turing Institute](https://www.turing.ac.uk/). Previously, I was a research intern at [Brave](https://brave.com/).
+I am an incoming AI Engineer at [Sony AI](https://ai.sony) Zurich in the Privacy-Preserving Machine Learning team.
+Before joining Sony, I was a research assistant in the Social Computing group at [Idiap Research Institute](http://idiap.ch) in Martigny, Switzerland.
 
-My academic research interest lies at the intersection of data privacy, trustworthy machine learning, and graph neural networks. I am a contributor to the [AI4media](https://ai4media.eu/) project, a European Union’s Horizon 2020 research and innovation program focusing on the next generation of ethical and trustworthy AI research to serve media and society.  
+I did my PhD in the School of Engineering at [EPFL](https://www.epfl.ch/en/home/), working on privacy-preserving machine learning on graphs. During my PhD, I did an internship at [Brave](https://brave.com/) and visited the [Safe and Ethical AI programme](https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai/safe-and-ethical) at [The Alan Turing Institute](https://www.turing.ac.uk/). My research interest is trustworthy ML, Secure AI, and learning on graphs.
 
-<!-- I am keen to initiate any kind of academic collaborations, so if you have similar research interests, please feel free to drop me a message! -->
+You can find more about me in my [CV](https://nbviewer.org/github/sisaman/cv/blob/master/sina-sajadmanesh-cv.pdf).
+
 
 # News
 
