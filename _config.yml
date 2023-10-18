@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sina Sajadmanesh"
 title_separator          : "-"
 name                     : &name "Sina Sajadmanesh"
-description              : &description "Research Assistant at Idiap Research Institute"
+description              : &description "AI Engineer at Sony AI"
 url                      : //sajadmanesh.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sisaman/sisaman.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sina Sajadmanesh"
   avatar           : "profile.png"
-  bio              : "Research Assistant<br/>Idiap Research Institute<br/>EPFL"
+  bio              : "AI Engineer<br/>Sony AI"
   location         : "Switzerland"
   employer         :
   pubmed           : 
