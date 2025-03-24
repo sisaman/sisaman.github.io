@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI Engineer in the Privacy-Preserving Machine Learning team at [Sony AI](https://ai.sony) Zurich.
+I am an AI Engineer in the Privacy-Preserving Machine Learning and Vision Foundation Model team at [Sony AI](https://ai.sony) Zurich, where I develop, train, and optimize state-of-the-art vision and multimodal models.
 Before joining Sony, I was a research assistant in the Social Computing group at [Idiap Research Institute](http://idiap.ch) in Martigny, Switzerland.
 
-I obtained my PhD from [EPFL](https://www.epfl.ch/en/home/), working on privacy-preserving machine learning on graphs. During my PhD, I did an internship at [Brave](https://brave.com/) and visited the [Safe and Ethical AI programme](https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai/safe-and-ethical) at [The Alan Turing Institute](https://www.turing.ac.uk/). My research interest is trustworthy ML, Secure AI, and learning on graphs.
+I obtained my PhD from [EPFL](https://www.epfl.ch/en/home/), working on privacy-preserving machine learning on graphs. During my PhD, I did an internship at [Brave](https://brave.com/) and visited the [Safe and Ethical AI programme](https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai/safe-and-ethical) at [The Alan Turing Institute](https://www.turing.ac.uk/). My research interests include trustworthy ML, computer vision, and multi-modal foundation models.
 
 You can find more about me in my [CV](https://nbviewer.org/github/sisaman/cv/blob/master/sina-sajadmanesh-cv.pdf).
 
