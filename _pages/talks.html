@@ -16,7 +16,7 @@ author_profile: true
   {% capture title %}{{ post.title }}{% endcapture %}
   {% if title != written_title %}
     <tr><th colspan="2" style="border: none; padding: 0;">
-      <h3 style="color: #494e52;"><a>{{ title }}</a></h3>
+      <h3><a>{{ title }}</a></h3>
     </th></tr>
     {% capture written_title %}{{ title }}{% endcapture %}
   {% endif %} 
