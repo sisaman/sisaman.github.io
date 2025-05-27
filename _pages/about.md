@@ -13,7 +13,7 @@ Before joining Sony, I was a research assistant in the Social Computing group at
 
 I obtained my PhD from [EPFL](https://www.epfl.ch/en/home/), working on privacy-preserving machine learning on graphs. During my PhD, I did an internship at [Brave](https://brave.com/) and visited the [Safe and Ethical AI programme](https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai/safe-and-ethical) at [The Alan Turing Institute](https://www.turing.ac.uk/). My research interests include trustworthy ML, computer vision, and multi-modal foundation models.
 
-You can find more about me in my [CV](https://nbviewer.org/github/sisaman/cv/blob/master/sina-sajadmanesh-cv.pdf).
+You can find more about me in my [CV](https://nbviewer.org/github/sisaman/cv/blob/main/sina-sajadmanesh-cv.pdf).
 
 
 # News
