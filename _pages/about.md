@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI Engineer in the Privacy-Preserving Machine Learning and Vision Foundation Model team at [Sony AI](https://ai.sony) Zurich, where I design, develop, and scale cutting-edge vision and multimodal foundation models that power real-world applications across Sony’s ecosystem. My work spans the entire lifecycle of model development—-from data curation, model architecture design, and efficient training, to evaluation, performance tuning, and deployment—-with a strong emphasis on scalability, efficiency, and safety.
+I am an AI Engineer in the Privacy-Preserving Machine Learning and Vision Foundation Model team at [Sony AI](https://ai.sony) Zurich, where I design, develop, and scale cutting-edge vision and multimodal foundation models that power real-world applications across Sony’s ecosystem. My work spans the entire lifecycle of model development—from data curation, model architecture design, and efficient training, to evaluation, performance tuning, and deployment—with a strong emphasis on scalability, efficiency, and safety.
 
 Before joining Sony, I was a research assistant in the Social Computing group at [Idiap Research Institute](http://idiap.ch) in Martigny, Switzerland, where I worked on machine learning for social systems and privacy-aware applications.
 
