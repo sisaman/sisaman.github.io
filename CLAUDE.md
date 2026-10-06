@@ -8,6 +8,8 @@ Sina Sajadmanesh's personal academic website, served by GitHub Pages at the doma
 
 ## Running locally
 
+Use Ruby 3.3 (matches GitHub Pages). Ruby 4.x fails to build some `github-pages` native gems; with Homebrew, put `/opt/homebrew/opt/ruby@3.3/bin` first on `PATH`.
+
 ```bash
 bundle install
 bundle exec jekyll serve -l -H localhost   # http://localhost:4000, live reload
